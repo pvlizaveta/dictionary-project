@@ -1,5 +1,5 @@
 .App section {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.6);
   border-radius: 20px;
   margin-right: 20px;
   margin-left: 20px;
@@ -8,21 +8,24 @@
 }
 .App-header {
   text-align: center;
-  margin-top: 100px;
+  margin-top: 110px;
   font-size: 40px;
   padding-top: 40px;
   margin-bottom: 0px;
 }
 
 footer {
+  font-size: 20px;
   margin: 20px;
   padding: 20px;
   color: white;
 }
 footer a {
   color: white;
+  font-weight: bold;
   transition: all 150ms ease-in-out;
 }
 footer a:hover {
   color: black;
+  font-weight: bold;
 }
