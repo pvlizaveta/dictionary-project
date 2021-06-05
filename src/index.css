@@ -3,4 +3,6 @@ body {
   background-size: cover;
   background-position: initial;
   font-family: "Raleway", sans-serif;
+  height: 100%;
+  min-height: 100%;
 }

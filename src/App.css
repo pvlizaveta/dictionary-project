@@ -1,22 +1,28 @@
+.App {
+  padding-top: 100px;
+}
 .App section {
   background-color: rgba(255, 255, 255, 0.6);
   border-radius: 20px;
-  margin-right: 20px;
-  margin-left: 20px;
+  margin: 0 auto;
+  width: 85%;
   box-shadow: 0px 10px 10px rgb(0, 0, 0, 10%);
   padding-bottom: 30px;
+  padding-top: 10px;
 }
 .App-header {
+  position: sticky;
+  height: 100%;
+  margin: 0 auto;
   text-align: center;
-  margin-top: 110px;
+  padding-top: 90px;
+  padding-bottom: 20px;
   font-size: 40px;
-  padding-top: 40px;
-  margin-bottom: 0px;
 }
 
 footer {
   font-size: 20px;
-  margin: 20px;
+  margin: 0 auto;
   padding: 20px;
   color: white;
 }
