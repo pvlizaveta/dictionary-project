@@ -1,23 +1,23 @@
 .App {
-  padding-top: 10vw;
-}
-.App section {
-  background-color: rgba(255, 255, 255, 0.6);
-  border-radius: 20px;
-  margin: 0 auto;
-  width: 90%;
+  background-image: url("./background1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 100%;
-  box-shadow: 0px 10px 10px rgb(0, 0, 0, 10%);
-  padding-bottom: 30px;
-  padding-top: 10px;
 }
-.App-header {
+.gradient {
+  background-image: linear-gradient(
+    rgba(167, 172, 165, 1),
+    rgba(247, 247, 247, 0)
+  );
+}
+
+header {
   position: relative;
   margin: 0 auto;
   text-align: center;
   padding-top: 60px;
   padding-bottom: 30px;
-  font-size: 5vw;
+  font-size: 4vw;
 }
 
 footer {
