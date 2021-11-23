@@ -15,7 +15,7 @@
 .Dictionary input {
   width: 100%;
   font-size: 18px;
-  background-color: transparent;
+  background-color: #dddfdc;
   border: 0.1px solid rgb(0, 0, 0, 10%);
   border-radius: 5px;
   padding: 4px 10px;
