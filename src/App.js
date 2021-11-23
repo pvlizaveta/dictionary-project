@@ -1,4 +1,5 @@
 import "./App.css";
+import "./responsive.css";
 import Dictionary from "./Dictionary";
 
 function App() {
